@@ -1,0 +1,37 @@
+body { background-image: url(https://img4.goodfon.com/wallpaper/nbig/e/3c/boku-no-hero-academia-midoriya-izuku-fanart-my-hero-academ-2.jpg);
+	background-repeat: repeat-y ; background-size: cover; position: relative; background-attachment: fixed;}
+
+menu { background:rgba(58,76,59, 0.9); width:48%; height: 5%; float: right; position:relative; right: 2%; 
+	position:relative; top: 5%; margin-top: 0;}
+
+tlo { background:rgba(255, 255, 255, 0.5); width:50%; height: auto; float: right; position:relative; right: 2%; 
+	position:relative; top: 5%; margin-top: -0,5%;}
+
+footer { background: rgba(255, 255, 255, 0.5); width:50%; height: auto; clear: both; float: down; position:relative; left: 48%; 
+	margin-top: -5%}
+
+header { background-color: #ffffff; width:50%; height: auto; float: top; position:relative; left: 48%;}
+
+izuki { background-color: rgba(255,255,255,0.5); position:fixed; bottom: 40; left:-5; width: 30%; height: 10%;}
+
+a:link { color: white;} /* nieodwiedzony */
+a:visited  { color: #C3FFAB;} /* odwiedzony */
+a:hover { color: pink;} /* najechany */
+a:active { color: red;} /* kilkniety */
+
+
+h1 { font-family: fantasy; font-size: 55; font-style: italic; font-variant: normal; font-weight: 700; line-height: 26.4px;
+	text-shadow: 1px 1px 10px DimGray; font-variant: small-caps;  margin-left: 2%;}
+m { font-family: Impact; font-size: 40; font-variant: normal; font-weight: 500; line-height: 26.4px;
+	text-shadow: 1px 1px 10px DimGray; font-variant: small-caps;  margin-left: 2%;}
+p  {margin-left: 5%; margin-right: 5%; font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; color: dimgray;
+	 text-align: center; font-size: 15px; text-shadow: 1px 1px 10px DimGray;}
+h6 { font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 17; font-variant: normal; font-weight: 50; line-height: 26.4px;
+	text-shadow: 1px 1px 10px DimGray;  margin-left: 5%; margin-right: 5%;}
+
+p::selection { color: black; background: red;}
+h1::selection { color: black; background: red;}
+h6::selection { color: black; background: red;}
+m::selection { color: black; background: red;}
+img::selection { color: black; background: red;}
+
